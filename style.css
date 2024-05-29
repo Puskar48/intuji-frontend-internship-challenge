@@ -1,0 +1,100 @@
+body{
+    background-color: skyblue;
+}
+h4{
+    padding-left: 80px;
+   
+}
+.nav{
+    margin-top: 19px;
+   list-style: none;
+    display: flex;
+    flex-direction: row;
+justify-content: space-between;
+text-decoration: none;
+}
+.Start{
+    background-color: #4F46BA;
+    height: 35px;
+    width: 90px;
+    color: white;
+}
+.header{
+    line-height: 48px;
+    align-items: start;
+    padding-left: 80px;
+    margin-top: 80px;
+}
+.desc{
+    padding-left: 80px;
+    line-height: 24px;
+}
+.End{
+    align-items: center;
+    margin-left: 80px;
+    background-color: #4F46BA;
+    color: white;
+    border-radius: 80px;
+    margin-top:20px;
+    height: 50px;
+    width: 140px;
+}
+.Ending{
+    display: flex;
+    gap: 40px;
+}
+.Circle{
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    background-color: #22D497;
+}
+.circ{ 
+color: #3734A9;
+height: 50px;
+margin-top: 20px;
+margin-left: -24px;
+}
+.right{
+    margin-top: 60px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+.image{
+    width: 300px;
+    height: 200px;
+}
+.gap{
+    align-items: space-between;
+}
+.image{
+    position: relative;
+left: 700px;
+bottom: 490px;
+}
+.image img{
+    width: 696px;
+height: 384px;
+top: 414px;
+left: 1184px;
+    transform: rotate(90deg);
+}
+.imagee{
+    position: relative;
+right: -743px;
+bottom: 490px;
+}
+.imagee img{
+    width: 496px;
+height: 290px;
+    transform: rotate(-90deg);
+}
+.right i{
+    color: blue;
+}
+.anish{
+    margin-right: 220px;
+}
